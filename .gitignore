@@ -1,0 +1,3 @@
+# carpetas que se exluiran del seguimiento.
+node_modules/
+dist/
